@@ -15,7 +15,7 @@ I recently learnt that the ISO is set by the film itself, but you can over or un
 
 # New Equipment: Yashica Electro 35 FC
 
-So I got this off eBay for around AU$140. I looked cool, didn't break the bank and I always wondered how these cameras focused, and what is a 'rangefinder'. I was even thinking of whether this thing needed batteries to operate, but the cool thing with analogue and manual things is that you don't need batteries to take photos!
+So I got this off eBay for around AU$140. It looked cool, didn't break the bank and I always wondered how these cameras focused, and what is a 'rangefinder'. I was even thinking of whether this thing needed batteries to operate, but the cool thing with analogue and manual things is that you don't need batteries to take photos!
 
 This one came with a detached front glass where the rangefinder worked, so I had to spend hours trying to get the top casing off, which was no easy feat by the way. I almost gave up before soliciting some help from my brother to pull the top part open. Unfortunately, I mangled the spring that resets the exposure counter so it would have to rely on the rewinding of the film to count backwards.
 

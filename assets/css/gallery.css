@@ -1,0 +1,10 @@
+.image-row {
+    text-align: center;
+  }
+  
+  @media (min-width: 720px) {
+    .image-row {
+      width: 7rem;
+      text-align: left;
+    }
+  }

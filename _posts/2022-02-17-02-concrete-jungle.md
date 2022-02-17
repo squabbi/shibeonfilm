@@ -33,13 +33,13 @@ Why don't we start with some choice photos here before we go critiquing some of 
 
 {% include lightbox.html src="20220217/02/5.jpg" data="roll-1" title="Ferris wheel" %}
 
-{% include lightbox.html src="20220217/02/6.jpg" data="roll-1" title="Prymont Bridge, Darling Harbour" %}
+{% include lightbox.html src="20220217/02/6.jpg" data="roll-1" title="Pyrmont Bridge, Darling Harbour" %}
 
 > My favourite unintentionally artistic shot, the leakage splits the footpath with the water, almost if there's a divide between the warm land, and the cool sea- especially with those towering structures over to the right and the warship.
 
 ### Urban Gardens
 
-Now this set of photos were definitely taken on an overcast day, and I set the camera's shutter speed accordinly, but after reading about colour film preferring more light than less, I could dial down the ISO and go for a slightly lower shutter speed as well.
+Now this set of photos were definitely taken on an overcast day, and I set the camera's shutter speed accordingly, but after reading about colour film preferring more light than less, I could dial down the ISO and go for a slightly lower shutter speed as well.
 
 {% include lightbox.html src="20220217/02/a1.jpg" data="roll-2" title="Shrine gates" %}
 

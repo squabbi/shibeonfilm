@@ -1,7 +1,7 @@
 # Site
 name: "Shibe On Film"
 title: "Shibe On Film"
-description: "Today's images with yesterday's feelings."
+description: "Today's images with a touch of yestrrday."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: 
@@ -18,9 +18,9 @@ authors:
     name: Jayden
     display_name: Jayden
     avatar: 'assets/images/avatar.jpg'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
+    email: 
+    web: https://www.squabbi.com/
+    twitter: https://twitter.com/
     description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
 
 # Plugins

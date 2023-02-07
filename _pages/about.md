@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shibe On Film, picture talking blog
+title: Shibe on Film, picture talking blog
 permalink: /about
 comments: false
 image: assets/images/about.jpg
@@ -23,3 +23,4 @@ Here's the stuff I use with my cameras!
     - Sony 3.5 - 5.6/16 - 50 OSS (Kit)
     - Sigma 16mm 1.4 DC DN
  - Yashica Electro 35 FC (35mm Rangefinder)
+ - Fujica ST605 (35mm)
